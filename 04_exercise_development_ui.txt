@@ -1,0 +1,48 @@
+Exercise: Customize and Save a Perspective
+
+1. Examine Available Perspectives
+	- There are four options to open an Eclipse perspective:
+		a. Window > Perspective > Open Perspective > ...
+		b. Select the perspective by name/icon at the far right of the main toolbar
+		c. Click the Open Perspective icon (just to the left of the perspective names on the main toolbar)
+		d. Begin typing a perspective name into the Quick Access toolbar
+			i. Located just to the left of the Open Perspective icon in the main toolbar
+			ii. Push Ctrl+3 to access from the keyboard
+	- To get a feel for perspectives as a whole, and to take a look at various available views, examine the following perspectives. Consider keeping a few brief notes regarding views and perspectives that you think may be useful.
+		a. Java
+		b. Java EE
+		c. Debug
+		d. Type Hierarchy
+		e. Git
+		f. Team Synchronizing
+
+2. Modify Views and Editors
+	- After a thorough look at several available perspectives and views, select the perspective that is closest to what you think you'd like.
+	- Add, remove, and edit views and editors
+		a. Open Views (two methods)
+			i. Window > Show View > ...
+			ii. Begin typing a perspective name into the Quick Access toolbar
+				a. Located just to the left of the Open Perspective icon in the main toolbar
+				b. Push Ctrl+3 to access from the keyboard
+		b. Close Views and Editors (two options)
+			i. Click the close icon (X) on the view's title bar
+			ii. Right click on the title bar and select Close
+		c. Edit Views
+			i. Examine/hover/click the icons in the view's menu to explore options
+			ii. Click the menu icon (small triangle) to explore view menu options
+
+3. Customize Menus, Toolbars, and Shortucts
+	- Now is your chance to customize the menu bar and main toolbar. To access the customization menu, click Window > Perspective > Customize Perspective.
+		a. Tool Bar Visibility
+			- Configure displayed toolbar items
+		b. Menu Visibility
+			- Configure displayed menu items
+		c. Action Set Availability
+			- Add toolbar/menu items by action set
+		d. Shortcuts
+			- Configure items displayed under the specified submenus
+			
+4. Save Your Perspective
+	- To save your newly configured perspective, click 
+		Window > Perspective > Save Perspective As 
+	and enter a name. 
